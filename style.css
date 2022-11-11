@@ -95,13 +95,18 @@ h3 {
 }
 
 p {
-    color:  #000000;
+    color:  white;
     margin-left: 40px;
     text-align: justify;
     margin-right: 20px;
     font-size: 1.05em;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+#cidade {
+    width: 70%;
+    justify-content: center;
 }
 
 .selecao {
