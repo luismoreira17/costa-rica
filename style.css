@@ -22,7 +22,7 @@ nav a:hover {
 body {
     margin: 0;
     padding: 0;
-    background-color: #70d1fe;
+    background-color: #abe5ff;
     line-height: 1.5;
     text-align: center;
     font-family: sans-serif;
@@ -55,17 +55,23 @@ header {
 h1 {
     border: 3px;
     font-size: 3em;
-    font-weight: bolder; 
+    font-weight: bolder;
+    color:#230083;
+    text-align: center;
+    margin: 10px;  
 }
 
 h2 {
     border: 3px;
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: bolder; 
+    color:#4003e9;
+    text-align: center;
+    margin: 10px;
 }
 
 .titulo2 {
-    color:#230083;
+    color:#4003e9;
     text-align: center;
     margin: 10px;
     border: 1px dotted white;
