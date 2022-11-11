@@ -24,6 +24,7 @@ body {
     padding: 0;
     background-color: #abe5ff;
     background-image: url(download.jpg);
+    background-size: auto;
     line-height: 1.5;
     text-align: center;
     font-family: sans-serif;
