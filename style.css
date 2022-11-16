@@ -24,9 +24,9 @@ body {
     padding: 0;
     background-color: #abe5ff;
     background-image: url(815603e49e10b1c.jpg);
-    background-size:cover;
+    background-size: auto;
     background-repeat: repeat-y;
-    background-position: 100%;
+    background-position:top;
     line-height: 1.5;
     text-align: center;
     font-family: sans-serif;
