@@ -18,17 +18,17 @@ nav a:hover {
     font-size: 18px;
     color: rgb(255, 255, 255);
 }
-
+;
 body {
     margin: 0;
     padding: 0;
     background-color: #abe5ff;
     background-image: url(815603e49e10b1c.jpg);
-    background-size: auto;
-    background-repeat:repeat;
-    background-position:top;
+    background-size:cover;
+    background-repeat:repeat-y;
+    background-position:right top;
     line-height: 1.5;
-    text-align:justify;
+    text-align:center;
     font-family: sans-serif;
 }
 
