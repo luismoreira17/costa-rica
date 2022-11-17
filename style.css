@@ -22,8 +22,7 @@ nav a:hover {
 body {
     margin: 0;
     padding: 0;
-    background-color: #abe5ff;
-    background-image: url(imagem/fundo10.jpg);
+    background-color: #78ddff;
     background-size:auto;
     background-repeat:no-repeat;
     background-position:right;
@@ -44,10 +43,6 @@ body {
     font-weight: bolder;
     font-size: 1em;
     position:static;
-}
-
-header { 
-    background-image:url("");
 }
 
 .titulo {
